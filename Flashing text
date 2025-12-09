@@ -1,0 +1,35 @@
+<html><head><base target="_blank"><base target="_blank"></head><body><center class="animated_rainbow_3"> ProGS2Z
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+.animated_rainbow_3 {
+	color: #F00;
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+	font-size: 42px;
+		font-family: 'Dela Gothic One', sans-serif;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: #FF0000;
+	-webkit-animation: animatedBackground_c 2s infinite alternate;
+}
+
+@keyframes animatedBackground_c {
+	0% {-webkit-text-stroke-color: #E6E6E6}
+	10% {-webkit-text-stroke-color: #C0D5C6}
+	20% {-webkit-text-stroke-color: #B3FF80}
+	30% {-webkit-text-stroke-color: #468B11}
+	40% {-webkit-text-stroke-color: #BEE3BA}
+	50% {-webkit-text-stroke-color: #84FF4F}
+	60% {-webkit-text-stroke-color: #a6700bb}
+	70% {-webkit-text-stroke-color: #BEF786}
+	80% {-webkit-text-stroke-color: #208A00}
+	90% {-webkit-text-stroke-color: #003200}
+	100% {-webkit-text-stroke-color: #E2FCAE}
+}
+
+</style>
+</body></html>
+
+
+
+
